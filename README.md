@@ -19,20 +19,20 @@
 ## 🚀 Latest Projects
 
 <p align="center">
-  <a href="https://github.com/Mr-Spect3r/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=REPO_NAME_1&theme=tokyonight" />
+  <a href="https://github.com/Mr-Spect3r/ECHO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=ECHO&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Mr-Spect3r/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=REPO_NAME_2&theme=tokyonight" />
+  <a href="https://github.com/Mr-Spect3r/had">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=had&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mr-Spect3r/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=REPO_NAME_3&theme=tokyonight" />
+  <a href="https://github.com/Mr-Spect3r/CamPhish">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=CamPhish&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Mr-Spect3r/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=REPO_NAME_4&theme=tokyonight" />
+  <a href="https://github.com/Mr-Spect3r/MANTIS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=MANTIS&theme=tokyonight" />
   </a>
 </p>
 
@@ -45,14 +45,3 @@
 </p>
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
