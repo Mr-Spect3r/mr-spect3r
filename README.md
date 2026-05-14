@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Mr-Spect3r&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -10,8 +10,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mr-Spect3r&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Spect3r&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -19,20 +19,20 @@
 ## 🚀 Latest Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight" />
+  <a href="https://github.com/Mr-Spect3r/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=REPO_1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight" />
+  <a href="https://github.com/Mr-Spect3r/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=REPO_2&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_3&theme=tokyonight" />
+  <a href="https://github.com/Mr-Spect3r/REPO_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=REPO_3&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_4&theme=tokyonight" />
+  <a href="https://github.com/Mr-Spect3r/REPO_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Spect3r&repo=REPO_4&theme=tokyonight" />
   </a>
 </p>
 
